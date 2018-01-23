@@ -1,5 +1,5 @@
 <root>
-    <!-- Time-based boolean tests -->
+    <!-- Time-based boolean tests withOut quote-->
     <test>
         <title>MySQL &gt;= 5.0.12 AND time-based blind withOut quote</title>
         <stype>5</stype>
@@ -19,5 +19,5 @@
             <dbms_version>&gt;= 5.0.12</dbms_version>
         </details>
     </test>
-    <!-- End of time-based boolean tests - ORDER BY, GROUP BY clause -->
+    <!-- End of time-based boolean tests - withOut quote -->
 </root>
