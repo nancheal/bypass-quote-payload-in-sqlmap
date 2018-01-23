@@ -1,0 +1,1 @@
+如有需要将这段payload添加到sqlmap-payload.xml的最前方位置
